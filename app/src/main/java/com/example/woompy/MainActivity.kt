@@ -10,7 +10,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             WoompyTheme {
-                // Main app UI goes here
+                // Main app UI goes here!
             }
         }
     }
